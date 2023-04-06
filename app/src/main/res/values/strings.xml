@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">nutrally</string>
+    <string name="email">Email</string>
+    <string name="log_in">Log In</string>
+    <string name="register">Register</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="nutrally">Nutrally</string>
+    <string name="News">news</string>
+    <string name="username">username</string>
+    <string name="action_sign_in_short">action_sign_in_short</string>
+    <string name="password">password</string>
+    <string name="login">login</string>
+    <string name="sign_in">sign_in</string>
+    <string name="prompt_email">prompt_email</string>
+    <string name="prompt_password">prompt_password</string>
+    <string name="RepeatPassword">\@string/Repeat Password</string>
+    <string name="repeatPassword">Repeat Password</string>
+    <string name="Name">Name</string>
+    <string name="name">Name</string>
+    <string name="Age">Age</string>
+    <string name="Allergies">Allergies</string>
+    <string name="OtherConditions">Other Conditiions</string>
+    <string name="action_sign_in">Sign In</string>
+    <string name="action_register">action</string>
+    <string name="action_forgot_password">Forgot Password</string>
+    <string name="welcome">Welcome</string>
+</resources>
